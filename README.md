@@ -10,3 +10,7 @@ The cylinder data can be downloaded in the following link:
 https://drive.google.com/file/d/1nzAog_ArGVvF89NjvW33m2AJeXoHS32m/view?usp=share_link
 
 
+If for some reason you get different results, train your own models using the hyperparameter random search at the end of the VKS_lstm.py and VKS_node.py files. It is recommended to first tune only the learning rate.
+
+A trained NODE model has been uploaded in case you do not want to redo the hyperparameter search:
+https://drive.google.com/file/d/1ZB_ERbHP4PeWmehrHaDG1UZXvudkF8Jk/view?usp=share_link
